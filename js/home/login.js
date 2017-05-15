@@ -10,5 +10,5 @@ define(['jquery','bootstrap','jquery_form'],function($,ud,ud){
        
 
     });
-        return false;
+        
 });
